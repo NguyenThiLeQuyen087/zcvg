@@ -1,0 +1,1 @@
+var json_KhuCngNghip_6 = {"type":"FeatureCollection","name":"KhuCngNghip_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Name":"KCN An Nghiệp","Trực thu":null,"Diện tí":null},"geometry":{"type":"MultiPoint","coordinates":[[105.957890075763387,9.642723091533538]]}}]}
